@@ -1,0 +1,11 @@
+.btn4:hover{
+    background-color: white;
+    color: gray;
+    border: 1px solid white;
+}
+.btn4{
+    /* backgroundColor:"#F6214B" */
+    background-color: #F6214B;
+    color: white;
+    border:"1px solid #F6214B",
+}
